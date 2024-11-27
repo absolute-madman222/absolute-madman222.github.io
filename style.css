@@ -1,6 +1,6 @@
 :root {
 	--font: "Cartograph CF";
-	--bgcolor: #1f1d2e;
+	--bgcolor: #2a273f;
 	--linkcolor: #e0def4;
 }
 
@@ -8,8 +8,8 @@
 input {
     height: inherit;
     width: 680px;
-    background: #26233a;
-    color: #ebbcba;
+    background: #393552;
+    color: #ea9a97;
     font: "Cartograph CF";
     font-weight: mono;
     line-height: 1.8em;
@@ -28,7 +28,7 @@ body {
 	background-image: url('../background/bg.jpg');
 	background-repeat : no-repeat;
 */
-	background-color: #191724;
+	background-color: #232136;
 	background-size: cover;
 }
 
@@ -82,5 +82,5 @@ a:hover {
     font-size: 5.5rem;
     margin: 50px 0px 50px 0px;
     color: var(--linkcolor);
-	text-shadow: -5px 5px 0px #eb6f92, -10px 10px #f6c177, -15px 15px 0px #C3A5E6, -20px 20px 0px #31748f;
+	text-shadow: -5px 5px 0px #eb6f92, -10px 10px #f6c177, -15px 15px 0px #c4a7e7, -20px 20px 0px #3e8fb0;
 }
