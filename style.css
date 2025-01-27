@@ -3,11 +3,6 @@
 	--bgcolor: #2a273f;
 	--linkcolor: #e0def4;
 }
-@font-face {
-  font-family: Jetbrains Mono;
-  src: https://github.com/absolute-madman222/absolute-madman222.github.io/blob/main/JetBrainsMono-ExtraLight.woff2(JetBrainsMono-ExtraLight.woff2);
-  font-weight: bold;
-}
 /*-----------------------------------------------------------*/
 input {
     height: inherit;
