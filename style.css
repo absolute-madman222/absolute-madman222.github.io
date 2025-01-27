@@ -9,7 +9,7 @@ input {
     width: 680px;
     background: #393552;
     color: #c4a7e7;
-    font: "Jetbrains Mono";
+    font-family: "Jetbrains Mono";
     font-weight: mono;
     line-height: 1.8em;
     box-shadow: 1px 1px 3px #000000;
